@@ -12,3 +12,11 @@
 #Si hace menos de 10 años, debemos emitir el mensaje "Intentaremos ayudarte con un nuevo sistema de control
 #de plagas, y cuidaremos el suelo de tu plantación".
 
+anios = int(input('Por favor ingrese la cantidad de años que lleva utilizando insecticidas en la plantación: \n',))
+
+if anios >= 10:
+    print('Por favor solicite revisión de suelos en su plantación. \n')
+
+if anios < 10:
+    print ('Intentaremos ayudarte con un nuevo sistema de control de plagas, y cuidaremos el suelo de tu plantación. \n')
+    
