@@ -1,0 +1,2422 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"i"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"head",
+				"head"
+			],
+			[
+				"Cant_",
+				"CANT_ERRORES"
+			],
+			[
+				"cl",
+				"classic"
+			],
+			[
+				"N",
+				"nombre_musica"
+			],
+			[
+				"Rec",
+				"Reco_Nuevas"
+			],
+			[
+				"Reco",
+				"Reco_Nuevas"
+			],
+			[
+				"prec",
+				"PrecioUnitario"
+			],
+			[
+				"pri",
+				"prim_v"
+			],
+			[
+				"Cod",
+				"CodPedido"
+			],
+			[
+				"S",
+				"ServerID"
+			],
+			[
+				"Serv",
+				"ServerID"
+			],
+			[
+				"porcd",
+				"porcdesc"
+			],
+			[
+				"Prec",
+				"PrecioOferta"
+			],
+			[
+				"Cant",
+				"Cant_usada"
+			],
+			[
+				"Can",
+				"Cant_usada"
+			],
+			[
+				"rta",
+				"rtaa"
+			],
+			[
+				"Pregun",
+				"Preguntero"
+			],
+			[
+				"CANT",
+				"cant_lineas"
+			],
+			[
+				"d",
+				"descendente"
+			],
+			[
+				"tema_",
+				"tema_circ"
+			],
+			[
+				"tema",
+				"tema_circ"
+			],
+			[
+				"PROC",
+				"PROCEDIMIENTO"
+			],
+			[
+				"horari",
+				"horarioestimado"
+			],
+			[
+				"Arh",
+				"ArchPersonal"
+			],
+			[
+				"p",
+				"puntero"
+			],
+			[
+				"cant_",
+				"cant_analf"
+			],
+			[
+				"ape",
+				"Ape_Nom"
+			],
+			[
+				"Reg",
+				"RegUsuario"
+			],
+			[
+				"plu",
+				"pluviómetro"
+			],
+			[
+				"Nro",
+				"Nro_Pro"
+			],
+			[
+				"PRO",
+				"PROCEDIMIENTO"
+			],
+			[
+				"aviones",
+				"avionesbaja"
+			],
+			[
+				"ArchCli",
+				"ArchCliente"
+			],
+			[
+				"m",
+				"MOVIMIENTOS_DIARIOS"
+			],
+			[
+				"MOV",
+				"MOVIMIENTOS_DIARIOS"
+			],
+			[
+				"EJERCIC",
+				"EJERCICIO_2"
+			],
+			[
+				"s",
+				"STOCK"
+			],
+			[
+				"PR",
+				"PRODUCTO"
+			],
+			[
+				"M",
+				"MOVIMIENTOS_DIARIOS"
+			],
+			[
+				"pL",
+				"PluviometroId"
+			],
+			[
+				"PRECI",
+				"PRECIPITACIONES_ANUALES"
+			],
+			[
+				"Leer",
+				"Leer_MOV"
+			],
+			[
+				"Lee",
+				"Leer_MAE"
+			],
+			[
+				"ArchM",
+				"ArchMae"
+			],
+			[
+				"Float",
+				"Flotas_MOV"
+			],
+			[
+				"posmin",
+				"posminmes3"
+			],
+			[
+				"Proce",
+				"Procedimiento"
+			],
+			[
+				"Arch",
+				"ArchTerrenos"
+			],
+			[
+				"Total",
+				"totalgral"
+			],
+			[
+				"Im",
+				"Importe"
+			],
+			[
+				"PrOV",
+				"Proveedor"
+			],
+			[
+				"j",
+				"ArchCajeros"
+			],
+			[
+				"impo",
+				"IMPORTE"
+			],
+			[
+				"aR",
+				"ArchCajeros"
+			],
+			[
+				"Fech",
+				"FECHA_OPINION"
+			],
+			[
+				"CALI",
+				"CALIFICACIÓN"
+			],
+			[
+				"COD",
+				"COD_PRODUCTO"
+			],
+			[
+				"Dpt",
+				"DEPTO"
+			],
+			[
+				"REG_",
+				"REG_PRO"
+			],
+			[
+				"CO",
+				"Cod_Afiliado"
+			],
+			[
+				"cont",
+				"cont_servicios"
+			],
+			[
+				"C",
+				"COSTOS_POR_AFILIADO"
+			],
+			[
+				"echa",
+				"Fecha_At"
+			],
+			[
+				"ech",
+				"Fecha_Baja"
+			],
+			[
+				"cOD",
+				"Cod_Afiliado"
+			],
+			[
+				"Ech",
+				"fecha"
+			],
+			[
+				"Pr",
+				"Procedimiento"
+			],
+			[
+				"precio",
+				"precio_enero"
+			],
+			[
+				"F",
+				"F_Nac"
+			],
+			[
+				"cont_",
+				"cont_pal"
+			],
+			[
+				"con",
+				"cont_pal"
+			],
+			[
+				"Sec_",
+				"Sec_desencrip"
+			],
+			[
+				"orac",
+				"oraciones_sin_errores"
+			],
+			[
+				"oraci",
+				"oraciones_modif"
+			],
+			[
+				"tota",
+				"total_general"
+			],
+			[
+				"can",
+				"cont_pal_max"
+			],
+			[
+				"cant",
+				"cant_pistas_cond"
+			],
+			[
+				"cant_p",
+				"cant_pistas_cond"
+			],
+			[
+				"cant_pista",
+				"cant_pistas_cond"
+			],
+			[
+				"tot",
+				"total_general"
+			],
+			[
+				"comp",
+				"comp_componentes"
+			],
+			[
+				"ce",
+				"cent"
+			],
+			[
+				"com",
+				"comp_componentes"
+			],
+			[
+				"porc",
+				"porc_fisicas"
+			],
+			[
+				"recetas_",
+				"recetas_dificiles"
+			],
+			[
+				"Sec",
+				"Sec_AME"
+			],
+			[
+				"Se",
+				"Sec_AFR"
+			],
+			[
+				"total_e",
+				"total_escultores_corregidos"
+			],
+			[
+				"total",
+				"total_escultores"
+			],
+			[
+				"esc",
+				"escultores_eur"
+			],
+			[
+				"total_m",
+				"total_mayor"
+			],
+			[
+				"carr",
+				"carrera_mayor"
+			],
+			[
+				"Pobl",
+				"Población_Salida"
+			],
+			[
+				"Poblaci",
+				"Población_Salida"
+			],
+			[
+				"Corte_",
+				"Corte_tipo"
+			],
+			[
+				"_fac",
+				"Fecha_Fact"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "01. Estructuras de control/1. Insecticidas.py",
+			"settings":
+			{
+				"buffer_size": 912,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAdwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"left_delete",
+					null,
+					"AQAAACIBAAAAAAAAIgEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAIwEAAAAAAAAjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAAD0AAAAAAAAAPQAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAD0AAAAAAAAAPgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAD4AAAAAAAAAPwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					15,
+					1,
+					"left_delete",
+					null,
+					"AQAAAG4AAAAAAAAAbgAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAbwAAAAAAAABvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAG4AAAAAAAAAbwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbgAAAAAAAABuAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAG8AAAAAAAAAcAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAbwAAAAAAAABvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMQAAAAAAAAAxAAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "\n\""
+					},
+					"AgAAAMQAAAAAAAAAxQAAAAAAAAAAAAAAxQAAAAAAAADGAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxAAAAAAAAADEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"left_delete",
+					null,
+					"AQAAAMUAAAAAAAAAxQAAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAAxgAAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAMUAAAAAAAAAxgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAxQAAAAAAAADFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAACUBAAAAAAAAJgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAJQEAAAAAAAAlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAH4BAAAAAAAAfwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfgEAAAAAAAB+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					2,
+					"left_delete",
+					null,
+					"AgAAAHwBAAAAAAAAfAEAAAAAAAABAAAACnsBAAAAAAAAewEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAfQEAAAAAAAB9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAHwBAAAAAAAAfQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfAEAAAAAAAB8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHwBAAAAAAAAfAEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAfQEAAAAAAAB9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAL8BAAAAAAAAwAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvwEAAAAAAAC/AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					3,
+					"left_delete",
+					null,
+					"AwAAAL8BAAAAAAAAvwEAAAAAAAABAAAACr4BAAAAAAAAvgEAAAAAAAABAAAAZL0BAAAAAAAAvQEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAwAEAAAAAAADAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"left_delete",
+					null,
+					"AQAAALwBAAAAAAAAvAEAAAAAAAABAAAALA",
+					"AQAAAAAAAAABAAAAvQEAAAAAAAC9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "\nd"
+					},
+					"AgAAALwBAAAAAAAAvQEAAAAAAAAAAAAAvQEAAAAAAAC+AQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvAEAAAAAAAC8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAL0BAAAAAAAAvgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvQEAAAAAAAC9AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"left_delete",
+					null,
+					"AQAAAA8CAAAAAAAADwIAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAEAIAAAAAAAAQAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": "\n#"
+					},
+					"AgAAAA8CAAAAAAAAEAIAAAAAAAAAAAAAEAIAAAAAAAARAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwIAAAAAAAAPAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "\n#"
+					},
+					"AgAAAHECAAAAAAAAcgIAAAAAAAAAAAAAcgIAAAAAAABzAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQIAAAAAAABxAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					2,
+					"left_delete",
+					null,
+					"AgAAAA4CAAAAAAAADgIAAAAAAAABAAAAYQ0CAAAAAAAADQIAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAADwIAAAAAAAAPAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "a"
+					},
+					"AQAAAA8CAAAAAAAAEAIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADwIAAAAAAAAPAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAABACAAAAAAAAEQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEAIAAAAAAAAQAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "\n\""
+					},
+					"AgAAAN8CAAAAAAAA4AIAAAAAAAAAAAAA4AIAAAAAAADhAgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3wIAAAAAAADfAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOACAAAAAAAA4AIAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAA4QIAAAAAAADhAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAOACAAAAAAAA4QIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4AIAAAAAAADgAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEsDAAAAAAAASwMAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAATAMAAAAAAABMAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"insert",
+					{
+						"characters": "\n#"
+					},
+					"AgAAAEsDAAAAAAAATAMAAAAAAAAAAAAATAMAAAAAAABNAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASwMAAAAAAABLAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					77,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAIADAAAAAAAAgQMAAAAAAAAAAAAAgQMAAAAAAACCAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAMAAAAAAACAAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					81,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					83,
+					1,
+					"insert_snippet",
+					{
+						"contents": "\"$0\""
+					},
+					"AQAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					84,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete Left Right.sublime-macro"
+					},
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIgAAAAAAAAAAAAAAAAAAAAABAAAAIg",
+					"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"insert",
+					{
+						"characters": "#DESAR"
+					},
+					"BgAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAUAAAAAAAAABQAAAAAAAAABAAAAUg",
+					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					87,
+					1,
+					"insert",
+					{
+						"characters": "FIO"
+					},
+					"AwAAAAUAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAgAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					88,
+					1,
+					"insert",
+					{
+						"characters": " N°1"
+					},
+					"BAAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					89,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "01. Estructuras de control/2. Peces.py",
+			"settings":
+			{
+				"buffer_size": 1128,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAABQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"paste",
+					null,
+					"AgAAAAAAAAAAAAAADAAAAAAAAAAAAAAADAAAAAAAAAAMAAAAAAAAAAoAAABEZXNhZsOtbyAy",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAsAAAAAAAAACwAAAAAAAAABAAAAMQ",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "2"
+					},
+					"AQAAAAsAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAAkBAAAAAAAACgEAAAAAAAAAAAAACgEAAAAAAAALAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQEAAAAAAAAJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"paste",
+					null,
+					"AQAAAAsBAAAAAAAAXwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwEAAAAAAAALAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGkAAAAAAAAAaQAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAagAAAAAAAABqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAGkAAAAAAAAAagAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQAAAAAAAABpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"left_delete",
+					null,
+					"AQAAALYAAAAAAAAAtgAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAtwAAAAAAAAC3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAALYAAAAAAAAAtwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtgAAAAAAAAC2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEUBAAAAAAAARQEAAAAAAAABAAAAIEQBAAAAAAAARAEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAARgEAAAAAAABGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEQBAAAAAAAARQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAEAAAAAAABEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJYBAAAAAAAAlgEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAlwEAAAAAAACXAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAJYBAAAAAAAAlwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlgEAAAAAAACWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOEBAAAAAAAA4QEAAAAAAAABAAAAYQ",
+					"AQAAAAAAAAABAAAA4gEAAAAAAADiAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					2,
+					"left_delete",
+					null,
+					"AgAAAOIBAAAAAAAA4gEAAAAAAAABAAAAZOEBAAAAAAAA4QEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA4wEAAAAAAADjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "ad"
+					},
+					"AgAAAOEBAAAAAAAA4gEAAAAAAAAAAAAA4gEAAAAAAADjAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4QEAAAAAAADhAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"left_delete",
+					null,
+					"AQAAAOIBAAAAAAAA4gEAAAAAAAABAAAAZA",
+					"AQAAAAAAAAABAAAA4wEAAAAAAADjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": " d"
+					},
+					"AgAAAOIBAAAAAAAA4wEAAAAAAAAAAAAA4wEAAAAAAADkAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4gEAAAAAAADiAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAOQBAAAAAAAA5QEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5AEAAAAAAADkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					2,
+					"left_delete",
+					null,
+					"AgAAAOQBAAAAAAAA5AEAAAAAAAABAAAACuMBAAAAAAAA4wEAAAAAAAABAAAAZA",
+					"AQAAAAAAAAABAAAA5QEAAAAAAADlAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "d"
+					},
+					"AQAAAOMBAAAAAAAA5AEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4wEAAAAAAADjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAOMBAAAAAAAA5AEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4wEAAAAAAADjAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					2,
+					"left_delete",
+					null,
+					"AgAAAEsCAAAAAAAASwIAAAAAAAABAAAAIEoCAAAAAAAASgIAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAATAIAAAAAAABMAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEoCAAAAAAAASwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASgIAAAAAAABKAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"left_delete",
+					null,
+					"AQAAALgCAAAAAAAAuAIAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAuQIAAAAAAAC5AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAALgCAAAAAAAAuQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuAIAAAAAAAC4AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					60,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAQDAAAAAAAABAMAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAABQMAAAAAAAAFAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAQDAAAAAAAABQMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABAMAAAAAAAAEAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					64,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHkCAAAAAAAAeQIAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAegIAAAAAAAB6AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHkCAAAAAAAAeQIAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAegIAAAAAAAB6AgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					73,
+					1,
+					"paste",
+					null,
+					"AQAAAA4AAAAAAAAADwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgAAAAAAAAAOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"paste",
+					null,
+					"AQAAAGsAAAAAAAAAbAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAawAAAAAAAABrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					1,
+					"paste",
+					null,
+					"AQAAALkAAAAAAAAAugAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAuQAAAAAAAAC5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					85,
+					1,
+					"paste",
+					null,
+					"AQAAAA4BAAAAAAAADwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgEAAAAAAAAOAQAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					88,
+					1,
+					"paste",
+					null,
+					"AQAAAEkBAAAAAAAASgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASQEAAAAAAABJAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"paste",
+					null,
+					"AQAAAJwBAAAAAAAAnQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAnAEAAAAAAACcAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					1,
+					"paste",
+					null,
+					"AQAAAOoBAAAAAAAA6wEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6gEAAAAAAADqAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"paste",
+					null,
+					"AQAAAFICAAAAAAAAUwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAUgIAAAAAAABSAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					1,
+					"paste",
+					null,
+					"AQAAAIICAAAAAAAAgwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAggIAAAAAAACCAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					110,
+					1,
+					"paste",
+					null,
+					"AQAAAMACAAAAAAAAwQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwAIAAAAAAADAAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					114,
+					1,
+					"paste",
+					null,
+					"AQAAAA0DAAAAAAAADgMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADQMAAAAAAAANAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					118,
+					1,
+					"paste",
+					null,
+					"AQAAAFkDAAAAAAAAWgMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQMAAAAAAABZAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					123,
+					1,
+					"paste",
+					null,
+					"AQAAAI4DAAAAAAAAjwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjgMAAAAAAACOAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					126,
+					1,
+					"paste",
+					null,
+					"AQAAANkDAAAAAAAA2gMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2QMAAAAAAADZAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					129,
+					1,
+					"paste",
+					null,
+					"AQAAADYEAAAAAAAANwQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgQAAAAAAAA2BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					130,
+					1,
+					"left_delete",
+					null,
+					"AQAAADYEAAAAAAAANgQAAAAAAAABAAAAIw",
+					"AQAAAAAAAAABAAAANwQAAAAAAAA3BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					132,
+					1,
+					"paste",
+					null,
+					"AQAAADcEAAAAAAAAOAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwQAAAAAAAA3BAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					135,
+					1,
+					"left_delete",
+					null,
+					"AQAAADUEAAAAAAAANQQAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAANgQAAAAAAAA2BAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					138,
+					1,
+					"left_delete",
+					null,
+					"AQAAANcDAAAAAAAA1wMAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA2AMAAAAAAADYAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					141,
+					1,
+					"left_delete",
+					null,
+					"AQAAAIwDAAAAAAAAjAMAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAjQMAAAAAAACNAwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "01. Estructuras de control/03.Fertilizantes.py",
+			"settings":
+			{
+				"buffer_size": 312,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAACQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAkAAAAAAAAACgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"paste",
+					null,
+					"AQAAAAoAAAAAAAAAMgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGYAAAAAAAAAZgAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAZwAAAAAAAABnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAGYAAAAAAAAAZwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZgAAAAAAAABmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"left_delete",
+					null,
+					"AQAAAK8AAAAAAAAArwAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAsAAAAAAAAACwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAK8AAAAAAAAAsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArwAAAAAAAACvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN8AAAAAAAAA3wAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAN8AAAAAAAAA4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA3wAAAAAAAADfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "DESAFRIO"
+					},
+					"CQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAoAAABEZXNhZsOtbyAzAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": " 3"
+					},
+					"AgAAAAgAAAAAAAAACQAAAAAAAAAAAAAACQAAAAAAAAAKAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAUAAAAAAAAABQAAAAAAAAABAAAAUg",
+					"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAsAAAAAAAAADAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAGkAAAAAAAAAagAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQAAAAAAAABpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "#T"
+					},
+					"AwAAALMAAAAAAAAAtAAAAAAAAAAAAAAAtAAAAAAAAAC0AAAAAAAAAAEAAAB5tAAAAAAAAAC1AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAAAAAAAAACzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"left_delete",
+					null,
+					"AQAAALQAAAAAAAAAtAAAAAAAAAABAAAAVA",
+					"AQAAAAAAAAABAAAAtQAAAAAAAAC1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "y"
+					},
+					"AQAAALQAAAAAAAAAtQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "\n#"
+					},
+					"AgAAAOQAAAAAAAAA5QAAAAAAAAAAAAAA5QAAAAAAAADmAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5AAAAAAAAADkAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "01. Estructuras de control/4.Ingredientes.py",
+			"settings":
+			{
+				"buffer_size": 609,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAACQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAkAAAAAAAAACgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"paste",
+					null,
+					"AQAAAAoAAAAAAAAAWQIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAAH0AAAAAAAAAfQAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAfgAAAAAAAAB+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"left_delete",
+					null,
+					"AQAAADkAAAAAAAAAOQAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAOgAAAAAAAAA6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAADkAAAAAAAAAOgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOQAAAAAAAAA5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAH0AAAAAAAAAfgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfQAAAAAAAAB9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKoAAAAAAAAAqgAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAqwAAAAAAAACrAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"left_delete",
+					null,
+					"AQAAANIAAAAAAAAA0gAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAA0wAAAAAAAADTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					29,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEMBAAAAAAAAQwEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAARAEAAAAAAABEAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAEMBAAAAAAAARAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQwEAAAAAAABDAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKQBAAAAAAAApAEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAApQEAAAAAAAClAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAKQBAAAAAAAApQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApAEAAAAAAACkAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAUCAAAAAAAABQIAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAABgIAAAAAAAAGAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAUCAAAAAAAABgIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABQIAAAAAAAAFAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAoAAAAAAAAACwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAADsAAAAAAAAAPAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOwAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAIAAAAAAAAAAgQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAK0AAAAAAAAArgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArQAAAAAAAACtAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAANYAAAAAAAAA1wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1gAAAAAAAADWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAIBAAAAAAAAAwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgEAAAAAAAACAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAEoBAAAAAAAASwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASgEAAAAAAABKAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAKwBAAAAAAAArQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArAEAAAAAAACsAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAA4CAAAAAAAADwIAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADgIAAAAAAAAOAgAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "01. Estructuras de control/5.Barrios.py",
+			"settings":
+			{
+				"buffer_size": 459,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAACQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAkAAAAAAAAACgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAoAAAAAAAAACwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"paste",
+					null,
+					"AQAAAAsAAAAAAAAAxgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACwAAAAAAAAALAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAHEAAAAAAAAAcgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					2,
+					"left_delete",
+					null,
+					"AgAAAHEAAAAAAAAAcQAAAAAAAAABAAAACnAAAAAAAAAAcAAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAcgAAAAAAAAByAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					13,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAHAAAAAAAAAAcQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcAAAAAAAAABwAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAMBAAAAAAAABAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAwEAAAAAAAADAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJABAAAAAAAAkAEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAkQEAAAAAAACRAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAJABAAAAAAAAkQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkAEAAAAAAACQAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFUBAAAAAAAAVQEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAVgEAAAAAAABWAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					28,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJ4AAAAAAAAAngAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAnwAAAAAAAACfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAkAAAAAAAAACQAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAACgAAAAAAAAAKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAkAAAAAAAAACgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAHMAAAAAAAAAdAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcwAAAAAAAABzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAKIAAAAAAAAAowAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAogAAAAAAAACiAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAcBAAAAAAAABwEAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAACAEAAAAAAAAIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAAcBAAAAAAAACAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAABwEAAAAAAAAHAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					58,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAFkBAAAAAAAAWgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQEAAAAAAABZAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					62,
+					1,
+					"insert",
+					{
+						"characters": "#"
+					},
+					"AQAAAJQBAAAAAAAAlQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlAEAAAAAAACUAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Pascal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Pascal.sublime-build",
+					"Ejecutar"
+				]
+			],
+			[
+				"Packages/User/Pascal.sublime-build",
+				"Ejecutar"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Informatorio/Desarrollo Web/Práctica",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Informatorio/Desarrollo Web/Práctica/01. Estructuras de control"
+	],
+	"file_history":
+	[
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Paradigmas de Programación/Guia TP/Ejercicios/Ejercicio 3.4.java",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Paradigmas de Programación/Guia TP/Ejercicios/Ejercicio 3.9.java",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Paradigmas de Programación/Guia TP/Ejercicios/Ejercicio 2.10.java",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Paradigmas de Programación/Guia TP/Ejercicios/Ejercicio 3.6.java",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Paradigmas de Programación/Guia TP/Ejercicios/Ejercicio 3.5 (incom).java",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Paradigmas de Programación/Guia TP/Ejercicios/Ejercicio 3.8.java",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Paradigmas de Programación/Guia TP/Ejercicios/Ejercicio 3.3.java",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Paradigmas de Programación/Guia TP/Ejercicios/Ejercicio 3.1.java",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Paradigmas de Programación/Guia TP/Ejercicios/Ejercicio 2.6.java",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Paradigmas de Programación/Guia TP/Ejercicios/Ejercicio 2.5.java",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Algoritmos y Estructura de Datos/Parcial 2/Práctica/M3✔️.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Algoritmos y Estructura de Datos/Parcial 1/Práctica/Cafes.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Algoritmos y Estructura de Datos/Parcial 1/Práctica/Escultores.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Algoritmos y Estructura de Datos/Parcial 1/Archivos/Laboratorio.groovy",
+		"/C/Users/usuario/Desktop/Nueva carpeta/LEXERV1 (1).py",
+		"/C/Users/usuario/Desktop/G17/src/Parser3.py",
+		"/C/Users/usuario/Desktop/G17/src/parce3.py",
+		"/C/Users/usuario/Desktop/LEXV2.py",
+		"/C/Users/usuario/Documents/AutoPlay Media Studio 8/Projects/Mi Proyect/CD_Root/AutoPlay/Docs/Parser+Traductor/analizador_sintatico.py",
+		"/C/Users/usuario/Documents/AutoPlay Media Studio 8/Projects/Mi Proyect/CD_Root/AutoPlay/Docs/src/PARSERV1.py",
+		"/C/Users/usuario/Desktop/Grupo2-Lexer/analizador_lexico.py",
+		"/C/Users/usuario/Desktop/Grupo2-Lexer/main.py",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad 2022/1er Cuatrimestre/Sintaxis y Semántica de los Lenguajes/SSL - TFI/Ejemplos Analizador/TP sintaxis/Analizador/lex.py",
+		"/C/Users/usuario/Desktop/G2 - TFI - Lexer - Parser + Traductor/src/PARSERV1.py",
+		"/C/Users/usuario/Desktop/Grupo2-LexerFINAL/Grupo2-Lexer/prueba1.rss",
+		"/C/Users/usuario/Desktop/Grupo2-LexerFINAL/Grupo2-Lexer/output.html",
+		"/C/Users/usuario/Desktop/Galeano-Traggiay-Martinez-Lopez/src/PARSER.py",
+		"/C/Users/usuario/Desktop/Nueva carpeta (3)/Parser+Traductor/analizador_lexico.py",
+		"/C/Users/usuario/Desktop/Grupo2-LexerFINAL/Grupo2-Lexer/analizador_lexico.py",
+		"/C/Users/usuario/Desktop/Grupo2-LexerFINAL/Grupo2-Lexer/analizador_sintactico.py",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad 2022/1er Cuatrimestre/Sintaxis y Semántica de los Lenguajes/SSL - TFI/Ejemplos Analizador/TP sintaxis/Analizador/analizadorLexico.pyc",
+		"/C/Users/usuario/Desktop/Grupo2-LexerFINAL/Grupo2-Lexer/prueba.html",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad 2022/1er Cuatrimestre/Sintaxis y Semántica de los Lenguajes/SSL - TFI/Ejemplos Analizador/TP sintaxis/Analizador/analizadorLexico.py",
+		"/C/Users/usuario/Desktop/grupo-16/Src/Analizador_lexico.py",
+		"/C/Users/usuario/Desktop/grupo-16/Src/Analizador_sintáctico.py",
+		"/C/Users/usuario/Desktop/Grupo2-LexerFINAL/Grupo2-Lexer/parser.py",
+		"/C/Users/usuario/Desktop/Grupo2-LexerFINAL/Grupo2-Lexer/lexer.py",
+		"/C/Users/usuario/Desktop/grupo-16/Src/Intérprete de Pseudocódigo.py",
+		"/C/Users/usuario/Desktop/Compilador_PL0-master/analizador version 1/src/analizadorLexico.py",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad 2022/1er Cuatrimestre/Sintaxis y Semántica de los Lenguajes/SSL - TFI/Ejemplos Analizador/TPI Analizador Lexico - Sintactico/src/Tokens.java",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad 2022/1er Cuatrimestre/Sintaxis y Semántica de los Lenguajes/SSL - TFI/Ejemplos Analizador/TPI Analizador Lexico - Sintactico/src/Principal.java",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad 2022/1er Cuatrimestre/Sintaxis y Semántica de los Lenguajes/SSL - TFI/Ejemplos Analizador/TPI Analizador Lexico - Sintactico/src/FrmPrincipal.java",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad 2022/1er Cuatrimestre/Sintaxis y Semántica de los Lenguajes/SSL - TFI/Ejemplos Analizador/TPI Analizador Lexico - Sintactico/Analizador Lexico - Sintactico.exe",
+		"/C/Users/usuario/Downloads/lexer-g17.py",
+		"/C/Users/usuario/Desktop/traggiy.py",
+		"/C/Users/usuario/Desktop/lex.py",
+		"/C/Users/usuario/AppData/Local/Temp/Rar$DRa0.732/Compilador_PL0-master/analizador version 1/src/analizadorLexico.py",
+		"/C/Users/usuario/Desktop/Lexer/main.py",
+		"/C/Users/usuario/Desktop/proyecto/lexerde0",
+		"/C/Users/usuario/AppData/Local/Temp/Rar$DIa0.935/RSSParser.java",
+		"/C/Users/usuario/AppData/Local/Temp/Rar$DIa0.017/Main.java",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Parciales (primer cuatrimestre 2021).groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/Modelo 1 - Encriptado.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/divisor.groovy",
+		"/C/Users/usuario/AppData/Local/Temp/Rar$DIa0.635/RSSLexer.java",
+		"/C/Users/usuario/AppData/Local/Temp/Rar$DIa0.042/RSSParser.java",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad 2022/1er Cuatrimestre/Sintaxis y Semántica de los Lenguajes/Material/Sintaxis/TrabajoSintaxis/Lexer/Lexer/Nuevolexer/lex.yy.c",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad 2022/1er Cuatrimestre/Sintaxis y Semántica de los Lenguajes/Material/Sintaxis/parser_v4.1/y.tab.c",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad 2022/1er Cuatrimestre/Sintaxis y Semántica de los Lenguajes/Material/Sintaxis/parser_v4.1/lex.yy.c",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Algoritmos y Estructura de Datos/Laboratorio de Pascal/farmacia.pas",
+		"/C/Users/usuario/Documents/Diseño web/index.html",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/ISI/Algoritmos y Estructura de Datos/Parcial 2/Práctica/M7✔️.groovy",
+		"/C/Users/usuario/AppData/Local/Temp/Rar$DIa0.378/lex.yy.c",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/introduccion-a-js-master/index.html",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/Parcial ISID.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/Parcial ISIC.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/2020/Modelo 1 - Tests.txt",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/Recetas_ListaDoble.txt",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/Modelo 6 - Colchones.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Parciales (segundo cuatrimestre 2021).groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/P3.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/Modelo 3 - Proyectos.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Fisica/Portafolio/Actividades obligatorias/Estado.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/Frrezer.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 2/Práctica/M7✔️.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 2/Práctica/M.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 2/Práctica/M1✔️.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 1/Archivos/Laboratorio.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 1/Práctica/Gourmet.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 1/Práctica/Gemas.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 1/Práctica/Medicamentos.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 1/Práctica/Apuntes.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 1/Práctica/Cafes.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 1/Práctica/Componentes.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 1/Práctica/Volare.groovy",
+		"/C/Users/usuario/Desktop/Modelo 3 - Juego.txt",
+		"/C/Users/usuario/Desktop/Servers.txt",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/ej2.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/Modelo 8 - Tarjetas.groovy",
+		"/C/Users/usuario/Desktop/Aeropuertos 2.0.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/Modelo 10 - Aeropuertos.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/Recursividad.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/2020/Modelo 1 - Tests.jpeg",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Guia de Trabajos Prácticos/Ejercicios/5. Recursividad/Procedimientos recursivos.groovy",
+		"/C/Users/usuario/Downloads/WhatsApp Image 2021-12-01 at 7.04.21 PM.jpeg",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/Cosme.txt",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/PrácticaP3/Servers.groovy",
+		"/C/Users/usuario/Desktop/Modelo 1 - Tests.txt",
+		"/C/Users/usuario/Desktop/Modelo 2 - PedidosYa.txt",
+		"/C/Users/usuario/Desktop/Modelo 8 - Telefonos.txt",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Guia de Trabajos Prácticos/Ejercicios/5. Recursividad/Ejercicio 5.3.10",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/Práctica/Modelo 3 - Proyectos.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/Práctica/Modelo 5 - Juego.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/Práctica/Modelo 2 - Cripto.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/Práctica/Modelo 1 - Encriptado.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/Práctica/Ejercicio 1.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/Práctica/Tarjetas.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Guia de Trabajos Prácticos/Ejercicios/4. Listas/Ejercicios de Parcial/LaOca.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Guia de Trabajos Prácticos/Ejercicios/4. Listas/Ejercicios de Parcial/Tarjetas.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Guia de Trabajos Prácticos/Ejercicios/4. Listas/Ejercicios de Parcial/Colchones.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/Práctica/Banco.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/Práctica/Encriptado.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Guia de Trabajos Prácticos/Ejercicios/4. Listas/Ejercicios de Parcial/Telefonos 2.0.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Guia de Trabajos Prácticos/Ejercicios/4. Listas/Ejercicios de Parcial/Telefonos.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 3/Práctica/Lista_reprod.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Guia de Trabajos Prácticos/Ejercicios/4. Listas/Listas Resueltos 2.txt",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Guia de Trabajos Prácticos/Ejercicios/4. Listas/Ejercicio 4.1.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Guia de Trabajos Prácticos/Ejercicios/4. Listas/Ejercicio 4.2.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Guia de Trabajos Prácticos/Ejercicios/4. Listas/Ejercicio 4.5.groovy",
+		"/C/Users/usuario/Desktop/pseudocodigo.txt",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Laboratorio de C/pseudocodigo.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Guia de Trabajos Prácticos/Ejercicios/4. Listas/Ejercicio 4.4.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 2/Modelos/M7✔️.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 2/Modelos/M6✔️.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 2/Modelos/M4✔️.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 2/Modelos/M3✔️.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 2/Modelos/M2 ✔️.groovy",
+		"/C/Users/usuario/OneDrive - Facultad Regional Resistencia/Facultad Virtual 2021/Algoritmos y Estructura de Datos/Parcial 2/Modelos/M1✔️.groovy"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"file",
+			"band_im",
+			"band_text",
+			"band_im",
+			"H",
+			"file",
+			"lineas",
+			"linesep",
+			"head",
+			"files",
+			"TXT",
+			"aw_input",
+			"cond",
+			"hasta_que",
+			"tc_",
+			"t_",
+			"':",
+			":",
+			". ",
+			"     . ",
+			":",
+			" ",
+			"\n ",
+			".",
+			"·"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\usuario\\OneDrive - Facultad Regional Resistencia\\Informatorio\\Desarrollo Web\\Práctica"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "01. Estructuras de control/1. Insecticidas.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "01. Estructuras de control/2. Peces.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								908,
+								908
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "01. Estructuras de control/03.Fertilizantes.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								230,
+								230
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "01. Estructuras de control/4.Ingredientes.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 609,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "01. Estructuras de control/5.Barrios.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 459,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								405,
+								405
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 213.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
