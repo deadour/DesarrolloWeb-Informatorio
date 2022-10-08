@@ -10,9 +10,16 @@
 #barrios: Seccion A: centricos (A-M) no centricos (M-Z); Seccion B: no centricos (A-M) centricos (M-Ze)
 
 nombreBarrio = str(input('Ingrese el nombre del barrio \n'))
-ubicacion = str(input('Ingrese ubicacion: \n 1.Centro \n 2.No centro \n'))
+ubicacion = int(input('Ingrese ubicacion: \n 1.Centro \n 2.No centro \n'))
 
-if (nombreBarrio <= 'M') and (ubicacion == 1):
+if nombreBarrio.lower() < 'm' and ubicacion == 1:
+        print ('Su barrio pertenece a la sección A \n')
+
+elif (nombreBarrio.lower() > 'm') and (ubicacion == 2):
     print ('Su barrio pertenece a la sección A \n')
-else:
+elif nombreBarrio.lower() < 'm' and ubicacion == 2:
     print ('Su barrio pertenece a la sección B \n')
+elif nombreBarrio.lower() > 'm' and ubicacion == 1:
+    print ('Su barrio pertenece a la sección B \n')
+else:
+    print ('Ingrese valor válido')
